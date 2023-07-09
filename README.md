@@ -5,4 +5,4 @@
 intel i3 1.7 GHz \
 4gb RAM \
 Laptop without battery \
-Mobile with more RAM and better CPU
+Mobile phone with more RAM and better CPU
